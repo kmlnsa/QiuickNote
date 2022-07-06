@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="search">Search</string>
+    <string name="enter_text">Enter text</string>
+    <string name="search_by_notes">Search by notes</string>
+    <string name="add_note">Add note</string>
+</resources>
